@@ -9,7 +9,7 @@ date: "2019-11-30T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Main Structure: Linked List
+  caption: Main Structure-Linked List
   focal_point: Smart
 
 links:
@@ -29,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-12345
+
