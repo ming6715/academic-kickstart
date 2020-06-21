@@ -1,5 +1,5 @@
 ---
-title: Multiple Linear Regressionz: What Decides Wine Quality
+title: Multiple Linear Regressionz - What Decides Wine Quality
 summary: The model explains the relationship between wine quality and a series of chemical composition indexes of wine. The response is continuous.
 tags:
 - Data processing
@@ -21,4 +21,4 @@ url_code: ""
 url_pdf: "wineregression.pdf"
 url_slides: ""
 url_video: ""
-
+---
