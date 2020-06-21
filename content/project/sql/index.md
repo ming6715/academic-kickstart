@@ -1,5 +1,5 @@
 ---
-title: SQL Project: Budget Balance Management
+title: SQL Project- Budget Balance Management
 summary: Create a budget database with functionality including over-budget warning and refund procedure.
 tags:
 - Data management
