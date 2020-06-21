@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-  name = "Data managment"
-  tag = "Data-managment"
+  name = "Data management"
+  tag = "Data management"
   
   [[content.filter_button]]
   name = "Data processing"
-  tag = "Data-processing"
+  tag = "Data processing"
   
   [[content.filter_button]]
   name = "Data visualization"
-  tag = "Data-visualization"
+  tag = "Data visualization"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
