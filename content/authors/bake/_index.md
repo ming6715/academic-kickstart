@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Baking
+title: 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: Baking
 
 # Organizations/Affiliations
 organizations:
