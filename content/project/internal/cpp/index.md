@@ -1,6 +1,6 @@
 ---
 title: Student Grade Management System
-summary: Using linked list to build a student grade management system with C++. The main functions include input, insert, delete, find, display, save, sort, statistics, and exit.
+summary: Build a student grade management system with C++. The main functions include input, insert, delete, search, save, sort, statistics, and exit.
 tags:
 - Data management
 date: "2019-11-30T00:00:00Z"
