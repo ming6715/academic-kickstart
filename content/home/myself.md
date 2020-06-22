@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "walking2.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "walking3.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -54,7 +54,7 @@ subtitle = ""
 
 <div>  
   <h1 style="font-size:250%;">&emsp;&emsp;&emsp;Hi! I'm Mingjun Li.</h1>
-  <p white-space: pre; style="font-family: Gabriola; font-size:80%;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Analyze data from business perspective. Experience in logistics and finance.</span></p>
+  <p white-space: pre; style="font-family: Gabriola; font-size:80%;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Analyze data from business perspective. Experience in logistics and finance.</span></p>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
