@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Hiking
+role: Climbing Camp
 
 # Organizations/Affiliations
 organizations:
