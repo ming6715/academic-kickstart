@@ -1,9 +1,9 @@
 ---
 title: Surival Analysis Using R
 summary: The report answers the following questions by drawing the KM curves and revenue analysis,
-1.Which kind of customers is more natural to leave?
-2.What is the retention plan?
-3.How much revenue will increase with the retention plan?
+(1)Which kind of customers is more natural to leave?
+(2)What is the retention plan?
+(3)How much revenue will increase with the retention plan?
 
 tags:
 - Data processing
