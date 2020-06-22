@@ -1,5 +1,5 @@
 ---
-title: Big Data Pyspark 2020 TracFone Wireless Hackathon
+title: Big Data 2020 TracFone Wireless Hackathon
 summary: Led a team to achieve the 4th place among 22 teams; Leveraged Spark, Python, and Git to apply Random Forest and XGBoost to predict Active vs. Inactive customers.
 tags:
 - Data processing
