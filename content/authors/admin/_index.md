@@ -26,7 +26,7 @@ role: Professor of Artificial Intelligence
  - Computational Linguistics
  - Information Retrieval
 
-# education:
+ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
