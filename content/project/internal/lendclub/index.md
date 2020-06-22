@@ -1,9 +1,9 @@
 ---
 title: Lending Club Customer Financial Condition Analysis
-summary: For each club member, visulize his investment status, borrower category, and gain/loss.
+summary: For each club member, visualize his investment status, borrower category, and gain/loss.
 tags:
-- Data visulization
-date: "2016-04-27T00:00:00Z"
+- Data visualization
+date: "2019-10-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://public.tableau.com/profile/ming6715#!/vizhome/LendingClub_15927971832600/Story1?publish=yes"
