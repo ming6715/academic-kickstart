@@ -54,7 +54,7 @@ subtitle = ""
 
 <div>  
   <h1 style="font-size:250%;">&emsp;&emsp;&emsp;Hi! I'm Mingjun Li.</h1>
-  <p white-space: pre; style="font-family: Gabriola; font-size:80%;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Analyze data from business perspective. Experience in logistics and finance.</span></p>
+  <p white-space: pre; style="font-family: Gabriola; font-size:80%;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Analyze data from business perspective. Experience in logistics and finance.</span></p>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
