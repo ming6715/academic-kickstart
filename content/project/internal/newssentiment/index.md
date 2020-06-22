@@ -1,5 +1,5 @@
 ---
-title: LSTM Categorize - Sentiment Analysis of News Headlines
+title: Deep Learning - Sentiment Analysis of News Headlines
 summary: Use LSTM for a categorize problem and use different method on text cleaning. Noisy data reduced overfitting.
 tags:
 - Data processing
