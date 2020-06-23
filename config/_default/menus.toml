@@ -8,7 +8,7 @@
   url = "#myself"
   weight = 10
   
-[[Introduction]]
+[[main]]
   name = "Introduction"
   url = "#about"
   weight = 15
