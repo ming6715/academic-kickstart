@@ -32,7 +32,7 @@ subtitle = ""
   # color = "#EDD9FA"
   
   # Background gradient.
-   gradient_start = "#53D4DC"
+   gradient_start = "#60A9CB"
    gradient_end = "#3093C2"
   
   # Background image.
