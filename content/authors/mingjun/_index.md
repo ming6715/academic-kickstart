@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "limingjun6715@outlook.com"  # For a direct email link, use "limingjun6715@outlook.com".
+  link: "mailto:limingjun6715@outlook.com"  # For a direct email link, use "limingjun6715@outlook.com".
 - icon: skype
   icon_pack: fab
   link: https://join.skype.com/invite/ze2C1eIaB7mT
