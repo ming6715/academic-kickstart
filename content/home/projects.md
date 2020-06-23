@@ -61,7 +61,7 @@ subtitle = ""
   # color = "black"
   
   # Background gradient.
-   gradient_start = "#F1F1F1"
+   gradient_start = "#F7F7F7"
    gradient_end = "#4177B0"
   
   # Background image.
