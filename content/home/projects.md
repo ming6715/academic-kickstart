@@ -61,11 +61,11 @@ subtitle = ""
   # color = "black"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "#FFFFFF"
+   gradient_end = "#53D4DC"
   
   # Background image.
-   image = "background4.jpg"  # Name of image in `static/img/`.
+  # image = "background4.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
