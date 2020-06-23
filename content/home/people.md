@@ -32,8 +32,8 @@ subtitle = ""
   # color = "#EDD9FA"
   
   # Background gradient.
-   gradient_start = "#60A9CB"
-   gradient_end = "#29739F"
+   gradient_start = "#4177B0"
+   gradient_end = "#275382"
   
   # Background image.
   # image = "background4.jpg"  # Name of image in `static/img/`.
