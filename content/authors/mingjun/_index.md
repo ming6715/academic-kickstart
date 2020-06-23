@@ -67,7 +67,8 @@ email: ""
 ---
 Data analyst and a sports lover.
 <br/>
+
 Over the past three years, I have worked as a data analyst in logistics, financial service, and consulting companies. Now I have hands-on knowledge of Applied Statistics, Report Writing, and Presentation. I am good at using T-SQL, Python, R, and Excel(VBA) to manage and process data. I also have a substantial foundation of Spark, AWS, MATLAB, Tableau, and Power BI.  
 <br/>
-I found my passion for data since my sophomore year when I took the Python and Big Data course and applied it to a talent management project as a college research assistant. Since then, I have been challenging myself to explore data, including Data Structure, SAS, and SPSS. I am also a winner in the 2017 China and 2018 US national mathematical competitions in modeling.
+I found my passion for data since my sophomore year when I took the Python and Big Data course and applied it to a talent management project as a college research assistant. Since then, I have been challenging myself to explore data, including Data Structure, SAS, and SPSS. 
 
