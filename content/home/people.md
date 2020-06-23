@@ -33,14 +33,14 @@ subtitle = ""
   
   # Background gradient.
    gradient_start = "#60A9CB"
-   gradient_end = "#3093C2"
+   gradient_end = "#29739F"
   
   # Background image.
   # image = "background4.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+   text_color_light = true  
   
 [advanced]
  # Custom CSS. 
