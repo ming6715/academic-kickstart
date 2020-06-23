@@ -25,12 +25,9 @@ education:
   - course: MS in Business Analytics
     institution: University of Miami
     year: 2019
-  - course: BS in Finance
+  - course: BS in Finance & BA in Accounting
     institution: University of International Business and Economics
     year: 2015
-  - course: BA in Accounting
-    institution: University of International Business and Economics
-    year: 2016
    
 
 
@@ -41,13 +38,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "limingjun6715@outlook.com".
+  link: "limingjun6715@outlook.com"  # For a direct email link, use "limingjun6715@outlook.com".
+- icon: skype
+  icon_pack: fab
+  link: https://join.skype.com/invite/ze2C1eIaB7mT
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/mingjun-li/"
 - icon: github
   icon_pack: fab
   link: "https://github.com/ming6715"
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
